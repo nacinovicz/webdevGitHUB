@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is another commit, bla!
+=======
+This is again a commit, bla!
+>>>>>>> feature
 
 And here we go with commit number 2!
